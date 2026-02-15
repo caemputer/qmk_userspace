@@ -10,3 +10,4 @@ This fork contains my personal keymap for my keyboard. I recommend using the `al
 See `keyboards/bastardkb/charybdis/4x6/keymaps/caem`.
 
 ![keymap](./assets/keymap.png)
+![keyboard](./assets/keyboard.jpeg)
